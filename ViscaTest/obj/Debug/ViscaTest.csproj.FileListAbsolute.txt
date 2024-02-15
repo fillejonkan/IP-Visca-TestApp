@@ -1,0 +1,14 @@
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\Debug\ViscaTest.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.Form1.resources
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.Properties.Resources.resources
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.csproj.GenerateResource.Cache
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\Debug\ViscaTest.exe
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\Debug\ViscaTest.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.exe
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\Interop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\Debug\ViscaTest.csproj.ResolveComReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\Debug\Interop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\Debug\AxInterop.AXISMEDIACONTROLLib.dll

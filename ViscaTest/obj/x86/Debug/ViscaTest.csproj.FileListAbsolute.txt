@@ -1,0 +1,43 @@
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\x86\Debug\ViscaTest.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\x86\Debug\ViscaTest.exe
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\x86\Debug\ViscaTest.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.Form1.resources
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.Properties.Resources.resources
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.csproj.GenerateResource.Cache
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.exe
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\x86\Debug\Interop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\bin\x86\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\Interop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+c:\users\filip\documents\visual studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.csproj.ResolveComReference.cache
+C:\Users\filip\Documents\Visual Studio 2015\Projects\ViscaTest\ViscaTest\obj\x86\Debug\ViscaTest.csprojResolveAssemblyReference.cache
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\bin\x86\Debug\ViscaTest.exe.config
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\bin\x86\Debug\ViscaTest.exe
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\bin\x86\Debug\ViscaTest.pdb
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\bin\x86\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\bin\x86\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.csprojAssemblyReference.cache
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.csproj.ResolveComReference.cache
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.Form1.resources
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.Properties.Resources.resources
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.csproj.GenerateResource.cache
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.exe
+C:\Users\filipj\Documents\vmware_shared\ip_visca_test\ViscaTest\obj\x86\Debug\ViscaTest.pdb
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\bin\x86\Debug\ViscaTest.exe.config
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\bin\x86\Debug\ViscaTest.exe
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\bin\x86\Debug\ViscaTest.pdb
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\bin\x86\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\bin\x86\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.csproj.AssemblyReference.cache
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.csproj.ResolveComReference.cache
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.Form1.resources
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.Properties.Resources.resources
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.csproj.GenerateResource.cache
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.csproj.CoreCompileInputs.cache
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.exe
+C:\Users\filipj\Downloads\acap-native-sdk-examples-main\acs_pointofsales\IP-Visca-TestApp\ViscaTest\obj\x86\Debug\ViscaTest.pdb
